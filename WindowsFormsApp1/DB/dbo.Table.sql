@@ -1,0 +1,6 @@
+﻿CREATE TABLE [dbo].[Shapes]
+(
+	[Id] INT NOT NULL PRIMARY KEY,
+	[Shape] VARCHAR(255) NOT NULL,
+	[Timestamp] VARCHAR(255) NOT NULL
+);
